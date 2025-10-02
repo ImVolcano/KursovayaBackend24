@@ -1,0 +1,646 @@
+[
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CheckUser",
+    "RelativePath": "api/Database/CheckUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateDLC",
+    "RelativePath": "api/Database/CreateDLC",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dlc",
+        "Type": "GameShopModel.DLC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateDLCToImage",
+    "RelativePath": "api/Database/CreateDLCToImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dlcImage",
+        "Type": "GameShopModel.DLCToImage",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateGame",
+    "RelativePath": "api/Database/CreateGame",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "game",
+        "Type": "GameShopModel.Game",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateGameToDLC",
+    "RelativePath": "api/Database/CreateGameToDLC",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gDLC",
+        "Type": "GameShopModel.GameToDLC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateGameToGenre",
+    "RelativePath": "api/Database/CreateGameToGenre",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gGenre",
+        "Type": "GameShopModel.GameToGenre",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateGameToImage",
+    "RelativePath": "api/Database/CreateGameToImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gImage",
+        "Type": "GameShopModel.GameToImage",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateGenre",
+    "RelativePath": "api/Database/CreateGenre",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genre",
+        "Type": "GameShopModel.Genre",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateImage",
+    "RelativePath": "api/Database/CreateImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "img",
+        "Type": "GameShopModel.Image",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateTransaction",
+    "RelativePath": "api/Database/CreateTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "transaction",
+        "Type": "GameShopModel.Transaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateTransactionInfo",
+    "RelativePath": "api/Database/CreateTransactionInfo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tinfo",
+        "Type": "GameShopModel.TransactionInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "CreateUser",
+    "RelativePath": "api/Database/CreateUser",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "GameShopModel.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteDLC",
+    "RelativePath": "api/Database/DeleteDLC",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteDLCToImage",
+    "RelativePath": "api/Database/DeleteDLCToImage",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteGame",
+    "RelativePath": "api/Database/DeleteGame",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteGameToDLC",
+    "RelativePath": "api/Database/DeleteGameToDLC",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteGameToGenre",
+    "RelativePath": "api/Database/DeleteGameToGenre",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteGameToImage",
+    "RelativePath": "api/Database/DeleteGameToImage",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteGenre",
+    "RelativePath": "api/Database/DeleteGenre",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteImage",
+    "RelativePath": "api/Database/DeleteImage",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteTransaction",
+    "RelativePath": "api/Database/DeleteTransaction",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteTransactionInfo",
+    "RelativePath": "api/Database/DeleteTransactionInfo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/Database/DeleteUser",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetAll",
+    "RelativePath": "api/Database/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "TABLE_NAME",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetAllDLCs",
+    "RelativePath": "api/Database/GetAllDLCs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.DLC[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetAllGames",
+    "RelativePath": "api/Database/GetAllGames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.Game[]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetDLC",
+    "RelativePath": "api/Database/GetDLC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.DLC",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetGame",
+    "RelativePath": "api/Database/GetGame",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.Game",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetLastTransaction",
+    "RelativePath": "api/Database/GetLastTransaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetOne",
+    "RelativePath": "api/Database/GetOne",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TABLE_NAME",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "GetUser",
+    "RelativePath": "api/Database/GetUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.User",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateDLC",
+    "RelativePath": "api/Database/UpdateDLC",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_dlc",
+        "Type": "GameShopModel.DLC",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateGame",
+    "RelativePath": "api/Database/UpdateGame",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_game",
+        "Type": "GameShopModel.Game",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateGenre",
+    "RelativePath": "api/Database/UpdateGenre",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_genre",
+        "Type": "GameShopModel.Genre",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateImage",
+    "RelativePath": "api/Database/UpdateImage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_image",
+        "Type": "GameShopModel.Image",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateTransaction",
+    "RelativePath": "api/Database/UpdateTransaction",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_transaction",
+        "Type": "GameShopModel.Transaction",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DatabaseMS.Controllers.DatabaseController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/Database/UpdateUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "new_user",
+        "Type": "GameShopModel.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

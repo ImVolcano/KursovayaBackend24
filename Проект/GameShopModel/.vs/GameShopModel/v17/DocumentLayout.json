@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\gametodlc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\gametodlc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\dlctoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\dlctoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\gametoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\gametoimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\transactioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\transactioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\gametogenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\gametogenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\dlc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\dlc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\gameshopmodel\\gameshopmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BAF0615-E848-483C-9567-87009F12C4B5}|GameShopModel\\GameShopModel.csproj|solutionrelative:gameshopmodel\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameToDLC.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToDLC.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\GameToDLC.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToDLC.cs",
+              "RelativeToolTip": "GameShopModel\\GameToDLC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:52:32.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DLCToImage.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\DLCToImage.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\DLCToImage.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\DLCToImage.cs",
+              "RelativeToolTip": "GameShopModel\\DLCToImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:51:39.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameToImage.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToImage.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\GameToImage.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToImage.cs",
+              "RelativeToolTip": "GameShopModel\\GameToImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:50:40.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionInfo.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\TransactionInfo.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\TransactionInfo.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\TransactionInfo.cs",
+              "RelativeToolTip": "GameShopModel\\TransactionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:49:33.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Transaction.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\Transaction.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Transaction.cs",
+              "RelativeToolTip": "GameShopModel\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:48:52.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Image.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Image.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\Image.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Image.cs",
+              "RelativeToolTip": "GameShopModel\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:47:24.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameToGenre.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToGenre.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\GameToGenre.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\GameToGenre.cs",
+              "RelativeToolTip": "GameShopModel\\GameToGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:46:24.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Genre.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\Genre.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Genre.cs",
+              "RelativeToolTip": "GameShopModel\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:46:00.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DLC.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\DLC.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\DLC.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\DLC.cs",
+              "RelativeToolTip": "GameShopModel\\DLC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:44:24.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Game.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\Game.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\Game.cs",
+              "RelativeToolTip": "GameShopModel\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:41:21.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\User.cs",
+              "RelativeDocumentMoniker": "GameShopModel\\User.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\GameShopModel\\GameShopModel\\User.cs",
+              "RelativeToolTip": "GameShopModel\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:38:29.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

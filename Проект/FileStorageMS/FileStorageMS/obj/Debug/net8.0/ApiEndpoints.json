@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "FileStorageMS.Controllers.FileStorageController",
+    "Method": "GetImage",
+    "RelativePath": "api/FileStorage/GetImage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

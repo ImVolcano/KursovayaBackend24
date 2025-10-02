@@ -1,0 +1,63 @@
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+/api/Authorization/IsUser's started at 23:05:27
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+/api/Authorization/IsUser's started at 23:06:02
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+/api/Authorization/IsUser's started at 23:10:59
+/api/Authorization/IsUser's finished at 23:11:00 with status-code 400
+/api/Authorization/LoginUser's started at 23:11:59
+/api/Authorization/LoginUser's started at 23:11:59
+/api/Authorization/LoginUser's finished at 23:12:00 with status-code 200
+/api/Authorization/LoginUser's finished at 23:12:00 with status-code 200
+/api/Authorization/RegisterUser's started at 23:12:14
+/api/Authorization/RegisterUser's finished at 23:18:35 with status-code 200
+/api/Authorization/IsUser's started at 23:18:43
+/api/Authorization/IsUser's finished at 23:25:27 with status-code 200
+/api/Authorization/IsUser's started at 23:25:31
+/api/Authorization/IsUser's finished at 23:25:32 with status-code 200
+/api/Authorization/IsUser's started at 23:25:35
+/api/Authorization/IsUser's finished at 23:25:35 with status-code 400
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+Now listening on: https://localhost:7050
+Now listening on: http://localhost:5092
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\AuthorizationMS\AuthorizationMS
+/api/Authorization/RegisterUser's started at 14:25:33
+/api/Authorization/RegisterUser's finished at 14:25:34 with status-code 200
+/api/Authorization/LoginUser's started at 14:26:21
+/api/Authorization/LoginUser's started at 14:26:21
+/api/Authorization/LoginUser's finished at 14:26:22 with status-code 200
+/api/Authorization/LoginUser's finished at 14:26:22 with status-code 200

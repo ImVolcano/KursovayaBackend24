@@ -1,0 +1,81 @@
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+/api/Shop/GetGames's started at 22:16:48
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+An unhandled exception has occurred while executing the request.
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+/api/Shop/GetGames's started at 22:32:12
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+Now listening on: https://localhost:7189
+Now listening on: http://localhost:5216
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\ShopMS\ShopMS
+/api/Shop/MakeTransaction's started at 14:30:22
+/api/Shop/MakeTransaction's started at 14:30:22
+/api/Shop/MakeTransaction's finished at 14:30:23 with status-code 200
+/api/Shop/MakeTransaction's finished at 14:30:23 with status-code 200

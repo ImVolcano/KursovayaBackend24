@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\authorizationms\\authorizationms\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|solutionrelative:authorizationms\\controllers\\authorizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\authorizationms\\authorizationms\\rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|solutionrelative:authorizationms\\rabbitmq\\rabbitmqproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\authorizationms\\authorizationms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC79775-A857-48C8-8862-B172B4B7F7AC}|AuthorizationMS\\AuthorizationMS.csproj|solutionrelative:authorizationms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQProducer.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeDocumentMoniker": "AuthorizationMS\\RabbitMQ\\RabbitMQProducer.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\RabbitMQ\\RabbitMQProducer.cs",
+              "RelativeToolTip": "AuthorizationMS\\RabbitMQ\\RabbitMQProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:58:08.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\Program.cs",
+              "RelativeDocumentMoniker": "AuthorizationMS\\Program.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\Program.cs",
+              "RelativeToolTip": "AuthorizationMS\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:18:35.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorizationController.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\Controllers\\AuthorizationController.cs",
+              "RelativeDocumentMoniker": "AuthorizationMS\\Controllers\\AuthorizationController.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\AuthorizationMS\\AuthorizationMS\\Controllers\\AuthorizationController.cs",
+              "RelativeToolTip": "AuthorizationMS\\Controllers\\AuthorizationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:18:53.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

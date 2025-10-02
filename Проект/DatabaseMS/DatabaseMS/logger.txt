@@ -1,0 +1,380 @@
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+/api/Database/GetOne's started at 22:50:12
+Executed DbCommand (18ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__id_0
+/api/Database/GetOne's finished at 22:50:13 with status-code 200
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+Executed DbCommand (3ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+Executed DbCommand (1ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+Executed DbCommand (18ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+/api/Database/UpdateUser's started at 23:09:42
+Executed DbCommand (3ms) [Parameters=[@__old_id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__old_id_0
+Executed DbCommand (2ms) [Parameters=[@p3='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (Size = 4000), @p2='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [Cart_DLCs] = @p0, [Cart_Games] = @p1, [Password] = @p2
+OUTPUT 1
+WHERE [Id] = @p3;
+/api/Database/UpdateUser's finished at 23:09:43 with status-code 200
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+Executed DbCommand (1ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+/api/Database/CheckUser's started at 23:10:33
+Executed DbCommand (18ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Now listening on: https://localhost:7156
+Now listening on: http://localhost:5082
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\DatabaseMS\DatabaseMS
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+api/Database/DeleteUser's started at 14:20:45
+Executed DbCommand (46ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__id_0
+Executed DbCommand (9ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Users]
+OUTPUT 1
+WHERE [Id] = @p0;
+api/Database/DeleteUser's finished at 14:20:46 with status-code 200
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+api/Database/CreateUser's started at 14:21:47
+Executed DbCommand (4ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Balance], [Cart_DLCs], [Cart_Games], [Email], [Password], [Username])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+api/Database/CreateUser's finished at 14:21:47 with status-code 200
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+api/Database/DeleteUser's started at 14:22:36
+Executed DbCommand (0ms) [Parameters=[@__id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__id_0
+Executed DbCommand (1ms) [Parameters=[@p0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+DELETE FROM [Users]
+OUTPUT 1
+WHERE [Id] = @p0;
+api/Database/DeleteUser's finished at 14:22:36 with status-code 200
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+api/Database/CheckUser's started at 14:23:31
+Executed DbCommand (2ms) [Parameters=[@__username_0='?' (Size = 4000), @__HashPassword_1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__username_0 AND [u].[Password] = @__HashPassword_1
+api/Database/CreateUser's finished at 14:23:31 with status-code 200
+Executed DbCommand (0ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT 1
+Executed DbCommand (1ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+
+IF EXISTS
+    (SELECT *
+     FROM [sys].[objects] o
+     WHERE [o].[type] = 'U'
+     AND [o].[is_ms_shipped] = 0
+     AND NOT EXISTS (SELECT *
+         FROM [sys].[extended_properties] AS [ep]
+         WHERE [ep].[major_id] = [o].[object_id]
+             AND [ep].[minor_id] = 0
+             AND [ep].[class] = 1
+             AND [ep].[name] = N'microsoft_database_tools_support'
+    )
+)
+SELECT 1 ELSE SELECT 0
+api/Database/UpdateUser's started at 14:29:15
+Executed DbCommand (1ms) [Parameters=[@__old_id_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT TOP(1) [u].[Id], [u].[Balance], [u].[Cart_DLCs], [u].[Cart_Games], [u].[Email], [u].[Password], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Id] = @__old_id_0
+Executed DbCommand (2ms) [Parameters=[@p2='?' (DbType = Int32), @p0='?' (Size = 4000), @p1='?' (Size = 4000)], CommandType='Text', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+UPDATE [Users] SET [Cart_DLCs] = @p0, [Cart_Games] = @p1
+OUTPUT 1
+WHERE [Id] = @p2;
+api/Database/UpdateUser's finished at 14:29:15 with status-code 200

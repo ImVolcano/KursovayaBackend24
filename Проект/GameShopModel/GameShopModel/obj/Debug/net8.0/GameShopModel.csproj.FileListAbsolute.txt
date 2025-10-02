@@ -1,0 +1,11 @@
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\bin\Debug\net8.0\GameShopModel.deps.json
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\bin\Debug\net8.0\GameShopModel.dll
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\bin\Debug\net8.0\GameShopModel.pdb
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.AssemblyInfoInputs.cache
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.AssemblyInfo.cs
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.csproj.CoreCompileInputs.cache
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.dll
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\refint\GameShopModel.dll
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\GameShopModel.pdb
+D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\GameShopModel\GameShopModel\obj\Debug\net8.0\ref\GameShopModel.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YWSqsEvpKmmkaDvRBRlYhgX8JTgu9gq9KCwb94D+1sQ=",
+  "Source": "FileStorageMS",
+  "BasePath": "_content/FileStorageMS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

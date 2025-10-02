@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FileStorageMS</name>
+    </assembly>
+    <members>
+        <member name="M:FileStorageMS.Controllers.FileStorageController.GetImage(System.String)">
+             <summary>
+             Отправка изображения игры по запросу
+             </summary>
+             <remarks>
+             Пример запроса:
+             
+                 GET
+                 {
+                     "name": "dark souls 3.jpg"
+                 }
+            
+             </remarks>
+             <param name="name">Название файла изображения</param>
+             <returns>Изображение</returns>
+             <response code="200">Успешное выполнение</response>
+             <response code="404">Не найден файл изображения</response>
+        </member>
+    </members>
+</doc>

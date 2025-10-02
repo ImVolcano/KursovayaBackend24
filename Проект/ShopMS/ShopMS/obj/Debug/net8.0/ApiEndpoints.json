@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "ShopMS.Controllers.ShopController",
+    "Method": "GetDLC",
+    "RelativePath": "api/Shop/GetDLC",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.DLC",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShopMS.Controllers.ShopController",
+    "Method": "GetDLCs",
+    "RelativePath": "api/Shop/GetDLCs",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShopMS.Controllers.ShopController",
+    "Method": "GetGame",
+    "RelativePath": "api/Shop/GetGame",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "GameShopModel.Game",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShopMS.Controllers.ShopController",
+    "Method": "GetGames",
+    "RelativePath": "api/Shop/GetGames",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ShopMS.Controllers.ShopController",
+    "Method": "MakeTransaction",
+    "RelativePath": "api/Shop/MakeTransaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "GameShopModel.User",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DatabaseMS</name>
+    </assembly>
+    <members>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.GetOne(System.Int32,System.String)">
+            <summary>
+            Получение записи по ID из таблицы TABLE_NAME
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                GET
+                {
+                    "id": 2,
+                    "TABLE_NAME": "Users"
+                }
+                
+            </remarks>
+            <param name="id">Уникальный идентификатор</param>
+            <param name="TABLE_NAME">Название таблицы</param>
+            <returns>Запись из таблицы базы данных</returns>
+            <response code="200">Успешное выполнение. Возврат записи.</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Не найдена таблица или запись</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.GetAll(System.String)">
+            <summary>
+            Получение всех записей из таблицы TABLE_NAME
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                GET
+                {
+                    "TABLE_NAME": "Users"
+                }
+                
+            </remarks>
+            <param name="TABLE_NAME">Название таблицы</param>
+            <returns>Массив записей из таблицы базы данных</returns>
+            <response code="200">Успешное выполнение. Возврат массива.</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Таблица не найдена</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.GetLastTransaction">
+            <summary>
+            Получение ID последней по ID записи транзакции из таблицы Transactions
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                GET
+                {
+                    
+                }
+                
+            </remarks>
+            <returns>ID записи</returns>
+            <response code="200">Успешное выполнение. Возврат ID.</response>
+            <response code="404">В таблице нет записей</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.CheckUser(System.String,System.String)">
+            <summary>
+            Проверка наличия пользователя в базе данных
+            </summary>
+            <remarks>
+            Пример запроса:
+                
+                GET
+                {
+                    "username": "ImVolkano",
+                    "password": "1234567890"
+                }
+                
+            </remarks>
+            <param name="username">Имя пользователя</param>
+            <param name="password">Пароль</param>
+            <returns>Статус-код</returns>
+            <response code="200">Успешное выполнение. Пользователь найден</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Пользователь не найден</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.CreateUser(GameShopModel.User)">
+            <summary>
+            Создание записи пользователя в таблице Users
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                POST
+                {
+                    "id": 0
+                    "username": "FareWell",
+                    "email": "farewl@gmail.com",
+                    "password": "qwerty",
+                    "balance": 0,
+                    "cart_Games": [ ],
+                    "cart_DLCs": [ ]
+                }
+                
+            </remarks>
+            <param name="user">Поля пользователя</param>
+            <returns>Статус-код</returns>
+            <response code="200">Успешное выполнение. Пользователь добавлен.</response>
+            <response code="400">Некорректные данные</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.UpdateUser(GameShopModel.User)">
+             <summary>
+             Изменение данных пользователя в таблице Users
+             </summary>
+             <remarks>
+             Пример запроса:
+            
+                 PUT
+                 {
+                     "id": 2,
+                     "username": "iVolkano",
+                     "email": "maks_kasimov@internet.ru",
+                     "password": "0987654321",
+                     "balance": 1200,
+                     "cart_Games": [ 1 ],
+                     "cart_DLCs": [ ]
+                 }
+                 
+             </remarks>
+             <param name="new_user">Поля пользователя</param>
+             <returns>Статус-код</returns>
+             <response code="200">Успешное выполнение. Данные изменены.</response>
+             <response code="400">Некорректные данные</response>
+             <response code="404">Пользователь не найден</response>
+        </member>
+        <member name="M:DatabaseMS.Controllers.DatabaseController.DeleteUser(System.Int32)">
+            <summary>
+            Удаление записи пользователя из таблицы Users
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                DELETE
+                {
+                    "id": 3
+                }
+                
+            </remarks>
+            <param name="id">Уникальный идентификатор</param>
+            <returns>Статус-код</returns>
+            <response code="200">Успешное выполнение. Запись удалена.</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Пользователь не найден</response>
+        </member>
+    </members>
+</doc>

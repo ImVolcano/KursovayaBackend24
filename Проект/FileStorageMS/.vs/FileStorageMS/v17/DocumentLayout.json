@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\FileStorageMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB19C4D9-0138-436B-BDA7-70DE5F688194}|FileStorageMS\\FileStorageMS.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\filestoragems\\filestoragems\\controllers\\filestoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB19C4D9-0138-436B-BDA7-70DE5F688194}|FileStorageMS\\FileStorageMS.csproj|solutionrelative:filestoragems\\controllers\\filestoragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB19C4D9-0138-436B-BDA7-70DE5F688194}|FileStorageMS\\FileStorageMS.csproj|d:\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\filestoragems\\filestoragems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB19C4D9-0138-436B-BDA7-70DE5F688194}|FileStorageMS\\FileStorageMS.csproj|solutionrelative:filestoragems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\FileStorageMS\\FileStorageMS\\Program.cs",
+              "RelativeDocumentMoniker": "FileStorageMS\\Program.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\FileStorageMS\\FileStorageMS\\Program.cs",
+              "RelativeToolTip": "FileStorageMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:31:20.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileStorageController.cs",
+              "DocumentMoniker": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\FileStorageMS\\FileStorageMS\\Controllers\\FileStorageController.cs",
+              "RelativeDocumentMoniker": "FileStorageMS\\Controllers\\FileStorageController.cs",
+              "ToolTip": "D:\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\FileStorageMS\\FileStorageMS\\Controllers\\FileStorageController.cs",
+              "RelativeToolTip": "FileStorageMS\\Controllers\\FileStorageController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:30:20.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@DatabaseMS_HostAddress = http://localhost:5082
+
+GET {{DatabaseMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

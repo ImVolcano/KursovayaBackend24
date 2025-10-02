@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ShopMS</name>
+    </assembly>
+    <members>
+        <member name="M:ShopMS.Controllers.ShopController.GetGames">
+            <summary>
+            Получение всех игр из базы данных
+            </summary>
+            <remarks>
+            Пример запроса
+                
+                GET
+                {
+                    
+                }
+                
+            </remarks>
+            <param></param>
+            <returns>Массив всех игр из базы данных</returns>
+            <response code="200">Успешное выполнение метода с возвратом массива</response>
+            <response code="400">Данные не дошли по какой-либо причине</response>
+        </member>
+        <member name="M:ShopMS.Controllers.ShopController.GetDLCs">
+            <summary>
+            Получение всех DLC из базы данных
+            </summary>
+            <remarks>
+            Пример запроса
+                
+                GET
+                {
+                    
+                }
+                
+            </remarks>
+            <param></param>
+            <returns>Массив всех DLC из базы данных</returns>
+            <response code="200">Успешное выполнение метода с возвратом массива</response>
+            <response code="400">Данные не дошли по какой-либо причине</response>
+        </member>
+        <member name="M:ShopMS.Controllers.ShopController.MakeTransaction(GameShopModel.User)">
+            <summary>
+            Соверешние операции покупки пользователем
+            </summary>
+            <remarks>
+            Пример запроса
+                
+                POST
+                {
+                    "id": 2,
+                    "Username": "ImVolkano",
+                    "Email": "maks_kasimov@internet.ru,
+                    "Password": "1234567890",
+                    "Balance": 5000,
+                    "Cart_Games": [ 1, 3 ],
+                    "Cart_DLCs": [ 2 ]
+                }
+                
+            </remarks>
+            <param></param>
+            <returns>Статус код</returns>
+            <response code="200">Успешное выполнение метода с изменением и добавлением данных в базу данных</response>
+            <response code="400">Корзина пуста</response>
+            <response code="404">Товара по ID из корзины не существует или её нет в наличии</response>
+            <response code="406">На балансе пользователя недостаточно средств</response>
+        </member>
+    </members>
+</doc>

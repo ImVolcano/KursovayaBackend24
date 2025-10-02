@@ -1,0 +1,35 @@
+Now listening on: https://localhost:7177
+Now listening on: http://localhost:5019
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\FileStorageMS\FileStorageMS
+/api/FileStorage/GetImage's started at 23:29:04
+/api/FileStorage/GetImage's finished at 23:29:04 with status-code 200
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HN93I1LNP23I", Request id "0HN93I1LNP23I:00000009": An unhandled exception was thrown by the application.
+/api/FileStorage/GetImage's started at 23:29:12
+/api/FileStorage/GetImage's finished at 23:29:12 with status-code 200
+An unhandled exception has occurred while executing the request.
+The response has already started, the error page middleware will not be executed.
+Connection id "0HN93I1LNP23I", Request id "0HN93I1LNP23I:0000000B": An unhandled exception was thrown by the application.
+Now listening on: https://localhost:7177
+Now listening on: http://localhost:5019
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\FileStorageMS\FileStorageMS
+Now listening on: https://localhost:7177
+Now listening on: http://localhost:5019
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\FileStorageMS\FileStorageMS
+Now listening on: https://localhost:7177
+Now listening on: http://localhost:5019
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\FileStorageMS\FileStorageMS
+Now listening on: https://localhost:7177
+Now listening on: http://localhost:5019
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: D:\МосПолитех\Backend-разработка\Курсовой проект\Проект\FileStorageMS\FileStorageMS

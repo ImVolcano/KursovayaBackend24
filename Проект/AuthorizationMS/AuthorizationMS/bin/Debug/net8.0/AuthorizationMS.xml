@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AuthorizationMS</name>
+    </assembly>
+    <members>
+        <member name="M:AuthorizationMS.Controllers.AuthorizationController.RegisterUser(System.String,System.String,System.String)">
+            <summary>
+            Регистрация пользователя
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                POST
+                {
+                   "username": "FareWell",
+                   "email": "farewl@gmail.com",
+                   "password": "qwerty"
+                }
+                
+            </remarks>
+            <param name="username">Имя пользователя</param>
+            <param name="email">Электронная почта</param>
+            <param name="password">Пароль</param>
+            <returns>Статус-код</returns>
+            <response code="200">Успешное завершение регистрации</response>
+            <response code="400">Некорректные данные</response>
+        </member>
+        <member name="M:AuthorizationMS.Controllers.AuthorizationController.LoginUser(System.String,System.String)">
+            <summary>
+            Авторизация пользователя
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                GET
+                {
+                    "username": "ImVolkano",
+                    "password": "1234567890"
+                }
+                
+            </remarks>
+            <param name="username">Имя пользователя</param>
+            <param name="password">Пароль</param>
+            <returns>JWT-токен</returns>
+            <response code="200">Успешная авторизация. Возвращает JWT-токен.</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Пользователь с такими данными не найден</response>
+        </member>
+        <member name="M:AuthorizationMS.Controllers.AuthorizationController.IsUser(System.String,System.String)">
+            <summary>
+            Проверка наличия пользователя в базе данных
+            </summary>
+            <remarks>
+            Пример запроса:
+            
+                GET
+                {
+                    "username": "ImVolkano",
+                    "password": "1234567890"
+                }
+            </remarks>
+            <param name="username">Имя пользователя</param>
+            <param name="password">Пароль</param>
+            <returns>Статус-код</returns>
+            <response code="200">Пользователь найден</response>
+            <response code="400">Некорректные данные</response>
+            <response code="404">Пользователь с такими данными не найден</response>
+        </member>
+    </members>
+</doc>

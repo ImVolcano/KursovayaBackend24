@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|d:\\\u0432\u0430\u0436\u043D\u043E\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\databasems\\databasems\\passwordhashinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|solutionrelative:databasems\\passwordhashinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|d:\\\u0432\u0430\u0436\u043D\u043E\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\databasems\\databasems\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|solutionrelative:databasems\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|d:\\\u0432\u0430\u0436\u043D\u043E\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\databasems\\databasems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|solutionrelative:databasems\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|d:\\\u0432\u0430\u0436\u043D\u043E\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\databasems\\databasems\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|solutionrelative:databasems\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|d:\\\u0432\u0430\u0436\u043D\u043E\\\u043C\u043E\u0441\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u043A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u043F\u0440\u043E\u0435\u043A\u0442\\databasems\\databasems\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C279844F-8B47-4CB4-9CF9-F46D2E6EC970}|DatabaseMS\\DatabaseMS.csproj|solutionrelative:databasems\\rabbitmq\\rabbitmqconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PasswordHashinator.cs",
+              "DocumentMoniker": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\PasswordHashinator.cs",
+              "RelativeDocumentMoniker": "DatabaseMS\\PasswordHashinator.cs",
+              "ToolTip": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\PasswordHashinator.cs",
+              "RelativeToolTip": "DatabaseMS\\PasswordHashinator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:55:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "DatabaseMS\\ApplicationContext.cs",
+              "ToolTip": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\ApplicationContext.cs",
+              "RelativeToolTip": "DatabaseMS\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:41:29.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RabbitMQConsumer.cs",
+              "DocumentMoniker": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeDocumentMoniker": "DatabaseMS\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ToolTip": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\RabbitMQ\\RabbitMQConsumer.cs",
+              "RelativeToolTip": "DatabaseMS\\RabbitMQ\\RabbitMQConsumer.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T23:23:36.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\Program.cs",
+              "RelativeDocumentMoniker": "DatabaseMS\\Program.cs",
+              "ToolTip": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\Program.cs",
+              "RelativeToolTip": "DatabaseMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:53:41.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "DatabaseMS\\Controllers\\DatabaseController.cs",
+              "ToolTip": "D:\\\u0412\u0430\u0436\u043D\u043E\\\u041C\u043E\u0441\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\Backend-\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430\\\u041A\u0443\u0440\u0441\u043E\u0432\u043E\u0439 \u043F\u0440\u043E\u0435\u043A\u0442\\\u041F\u0440\u043E\u0435\u043A\u0442\\DatabaseMS\\DatabaseMS\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "DatabaseMS\\Controllers\\DatabaseController.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAAAIwJMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:53:44.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
